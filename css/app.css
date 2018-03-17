@@ -24,7 +24,7 @@ width: 80%;
 .destination-container {
 display: flex;
 flex-flow: wrap;
-justify-content: center;
+justify-content:center;
 }
 
 .destination {
@@ -40,7 +40,7 @@ align-items: center;
 text-align: center;
 }
 
-h2 {
+h1 {
 margin: 0;
 transform: rotate(-45deg);
 text-shadow: 0 0 5px #01579b;
@@ -52,4 +52,15 @@ background-color: #03a9f4;
 
 #paris {
 background-color: #d32f2f;
+}
+#Cairo {
+background-color: #03a9f4;
+}
+
+#Alexanderyiah {
+background-color: #01579b ;
+}
+
+#Mansourah {
+background-color: #d32f2f ;
 }
